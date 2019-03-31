@@ -10,8 +10,6 @@
     margin: 0;
     display: block;
     line-height: 1.15;
-    width: 1264px;
-    height: 940px;
 }
 
 .mainDomain{
@@ -20,6 +18,8 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    width: 1264px;
+    height: 880px;
 }
 
 .header{
